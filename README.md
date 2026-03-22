@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Ce que je construis
+## 🚀 Ce que j'ai construis
 
-### 🎵 Carnet de Chants
+### 🎵 Carnet de Chants (dans la vraie vie)
 > **L'app qui fait chanter les églises — littéralement.**
 
 Application Android de gestion d'hymnes pour les églises protestantes évangéliques.  
@@ -44,7 +44,7 @@ Projet réalisé dans le cadre de ma formation — **focus sur la planification 
 
 ---
 
-## 🔮 Prochains projets — la suite de l'aventure
+## 🔮 Prochains projets — la suite de l'aventure dans la vraie vie
 
 ### 👶 P'tits Pas *(nom provisoire)*
 > **Simplifier la vie des pros de la petite enfance — et des parents distraits.**
