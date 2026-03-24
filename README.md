@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Jacqueline !
+# 👋 Bienvenu sur mon profil !
 
 ### 📱 Développeuse Android en devenir · Kotlin & Jetpack Compose · France 🇫🇷
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Ce que j'ai construis
+## Mes productions
 
 ### 🎵 Carnet de Chants (dans la vraie vie)
 > **L'app qui fait chanter les églises — littéralement.**
@@ -42,6 +42,8 @@ Projet réalisé dans le cadre de ma formation — **focus sur la planification 
 - Définition des **user stories** avec critères d'acceptation
 - Schéma de base de données et diagramme de classes UML (Mermaid)
 - Présentation orale du projet devant un jury
+
+🔗 **[Voir les éléments réalisés en attend l'implémentation ](https://delicate-burn-9be.notion.site/Livrables-mission-31f7a4d984d68029b08dd83b81045601)** *(hébergé dans l'organisation de l'église)*
 
 ---
 
