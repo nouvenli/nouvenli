@@ -92,10 +92,10 @@ Application personnelle de lecture et d'écoute des psaumes, pensée comme une e
 
 ## 🌱 Mon parcours — de la salle de formation au code
 
-Avant de me lancer dans le développement Android, j'ai été **formatrice pendant 30 ans**. 🎤  
+Avant de me lancer dans le développement Android, j'ai été **formatrice pendant 30 ans**.  
 30 ans à transmettre, à vulgariser, à concevoir des parcours pédagogiques — et surtout, à voir la technologie transformer la façon dont on apprend... et dont on enseigne.
 
-Un licenciement = une opportunité, j'ai décidé de passer de l'autre côté de l'écran. 💡
+Un licenciement = une opportunité 💡 j'ai décidé de passer de l'autre côté de l'écran. 
 
 **Pourquoi Android ?** Parce que le smartphone est devenu le premier outil d'apprentissage au monde. Concevoir des **modules de formation pensés pour le mobile** — pas adaptés après coup, mais conçus *nativement* pour le téléphone — c'est le défi qui m'anime.
 
@@ -106,7 +106,7 @@ Mon approche de dev, c'est celle d'une formatrice reconvertie :
 - 🎯 Viser la **production**, pas juste le prototype
 - 📚 30 ans de pédagogie = une obsession pour l'**expérience utilisateur**
 
-J'ai commencé avec Java et MVVM, puis j'ai fait la transition vers **Kotlin + Compose** — et je ne regrette rien ! 🎉
+J'ai commencé avec Java et MVVM, puis j'ai très rapidement fait la transition vers **Kotlin + Compose** — et je ne regrette rien ! 🎉
 
 ---
 
