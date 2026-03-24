@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil !
 
-### 📱 Développeuse Android en devenir · Kotlin & Jetpack Compose · France 🇫🇷
+### Développeuse Android en devenir · Kotlin & Jetpack Compose · France 🇫🇷
 
 > *« 30 ans à former, aujourd'hui je code — parce que le meilleur outil pédagogique tient dans la poche. »*
 
