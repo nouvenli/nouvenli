@@ -1,4 +1,4 @@
-# 👋 Bienvenu sur mon profil !
+# 👋 Bienvenue sur mon profil !
 
 ### 📱 Développeuse Android en devenir · Kotlin & Jetpack Compose · France 🇫🇷
 
