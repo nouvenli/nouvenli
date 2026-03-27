@@ -8,7 +8,7 @@
 ## Mes productions
 
 ### 🎵 Carnet de Chants (dans la vraie vie)
-> **L'app qui fait chanter les églises — littéralement.**
+> **L'app qui fait chanter les églises, littéralement.**
 
 Application Android de gestion d'hymnes pour les églises protestantes évangéliques.  
 Déployée en production et utilisée  avec un répertoire de **268 cantiques**.
@@ -30,7 +30,7 @@ Déployée en production et utilisée  avec un répertoire de **268 cantiques**.
 > **Connecter les étudiants avec des mentors bénévoles.**
 
 Application de tutorat solidaire mettant en relation des étudiants en difficulté avec des mentors volontaires.  
-Projet réalisé dans le cadre de ma formation — **focus sur la planification et le cadrage**, pas le code.
+Projet réalisé dans le cadre de ma formation. **Focus sur la planification et le cadrage**, pas le code.
 
 🔧 **Stack envisagée :**
 `Kotlin` · `Jetpack Compose` · `Room` · `Hilt` · `Clean Architecture`
@@ -46,16 +46,15 @@ Projet réalisé dans le cadre de ma formation — **focus sur la planification 
 
 ---
 
-## 🔮 Prochains projets — la suite de l'aventure dans la vraie vie
+## 🔮 Prochains projets : la suite de l'aventure dans la vraie vie
 
 ### 👶 P'tits Pas *(nom provisoire)*
-> **Simplifier la vie des pros de la petite enfance — et des parents distraits.**
+> **Simplifier la vie des pros de la petite enfance ... et des parents distraits.**
 
 Application de gestion des inscriptions aux activités en structure petite enfance, avec **rappels automatiques** pour les parents. Née d'un vrai besoin exprimé par une professionnelle du terrain.
 
-🎯 **L'idée :** Les parents oublient, les pros courent après les confirmations. Cette app résout les deux problèmes.
-
-📋 **Approche :** En appliquant la méthodologie apprise sur Avenirs — document de cadrage, user stories, choix de stack — mais cette fois, **je code aussi**. De la planification à la production.
+**L'idée :** Les parents oublient, les pros courent après les confirmations. Cette app résout les deux problèmes.
+**Approche :** En appliquant la méthodologie apprise sur Avenirs — document de cadrage, user stories, choix de stack — mais cette fois, **je code aussi**. De la planification à la production.
 
 🔧 **Stack envisagée :**
 `Kotlin` · `Jetpack Compose` · `Hilt` · `Firestore` · `Notifications` · `Clean Architecture`
@@ -63,7 +62,7 @@ Application de gestion des inscriptions aux activités en structure petite enfan
 ---
 
 ### 📖 Psaumes
-> **Lire et écouter les psaumes — une expérience contemplative sur mobile.**
+> **Lire et écouter les psaumes : une expérience contemplative sur mobile.**
 
 Application personnelle de lecture et d'écoute des psaumes, pensée comme une extension spirituelle de Carnet de Chants. L'occasion de réutiliser et approfondir ma maîtrise de Media3/ExoPlayer dans un nouveau contexte.
 
@@ -89,7 +88,7 @@ Application personnelle de lecture et d'écoute des psaumes, pensée comme une e
 
 ---
 
-## 🌱 Mon parcours — de la salle de formation au code
+## Mon parcours : de la salle de formation au code
 
 Avant de me lancer dans le développement Android, j'ai été **formatrice pendant 30 ans**.  
 30 ans à transmettre, à vulgariser, à concevoir des parcours pédagogiques — et surtout, à voir la technologie transformer la façon dont on apprend... et dont on enseigne.
@@ -111,7 +110,7 @@ J'ai commencé avec Java et MVVM, puis j'ai très rapidement fait la transition 
 
 ## ✍️ Aussi...
 
-Quand je ne code pas, j'écris. Je m'intéresse à la **fiction policière psychologique** — parce qu'un bon suspense, c'est un peu comme un bon bug : il faut remonter les indices un par un. 🔍
+Quand je ne code pas, j'écris. Je m'intéresse à la **fiction policière psychologique** parce qu'un bon suspense, c'est un peu comme un bon bug : il faut remonter les indices un par un. Bon, pour l'instant mon inspiration est totalement focus sur Kotlin.
 
 ---
 
