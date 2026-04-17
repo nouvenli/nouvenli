@@ -24,6 +24,7 @@ Déployée en production et utilisée  avec un répertoire de **268 cantiques**.
 - De vrais utilisateurs, de vrais retours, de vraies itérations
 
 🔗 **[Voir le projet sur GitHub](https://github.com/epechassieu/carnet-de-chant)** 
+
 ---
 
 ### 🎓 Avenirs *(projet de formation)*
