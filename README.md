@@ -23,7 +23,7 @@ Déployée en production et utilisée  avec un répertoire de **268 cantiques**.
 - Documentation technique exploitable générée avec MkDocs
 - De vrais utilisateurs, de vrais retours, de vraies itérations
 
-🔗 **[Voir le projet sur GitHub](https://github.com/epechassieu/carnet-de-chant)** *(hébergé sur Notion)*
+🔗 **[Voir le projet sur GitHub](https://github.com/epechassieu/carnet-de-chant)** 
 ---
 
 ### 🎓 Avenirs *(projet de formation)*
@@ -42,7 +42,7 @@ Projet réalisé dans le cadre de ma formation. **Focus sur la planification et 
 - Schéma de base de données et diagramme de classes UML (Mermaid)
 - Présentation orale du projet devant un jury
 
-🔗 **[Voir les éléments réalisés en attend l'implémentation ](https://delicate-burn-9be.notion.site/Livrables-mission-31f7a4d984d68029b08dd83b81045601)** *(hébergé dans l'organisation de l'église)*
+🔗 **[Voir les éléments réalisés en attendant l'implémentation ](https://delicate-burn-9be.notion.site/Livrables-mission-31f7a4d984d68029b08dd83b81045601)** 
 
 ---
 
